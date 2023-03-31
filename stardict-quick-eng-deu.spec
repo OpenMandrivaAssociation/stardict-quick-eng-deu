@@ -1,5 +1,5 @@
 %define	version	2.4.2
-%define release 21
+%define release 22
 %define dict_format_version	2.4.2
 
 Summary:	English -> German *Quick dictionary for StarDict 2
